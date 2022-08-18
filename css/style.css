@@ -1,0 +1,12 @@
+.navbar{
+    border-bottom: 5px solid #098ac2;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.712),rgba(0, 0, 0, 0.712)),
+    url(../images/pexels-photo-730547.jpeg);
+
+    background-position: center;
+    background-size: cover;
+    padding-top: 150px;
+}
